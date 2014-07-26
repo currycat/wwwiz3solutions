@@ -1,0 +1,5 @@
+section:after {
+    background: url(../../images/accent_black.png);
+    height: 60px;
+    top: -60px;
+}
