@@ -1,0 +1,11 @@
+section:after {
+	text-align: center;
+	top: -21px;
+	left: 50%;
+	margin-left: -21px;
+   	width: 0; 
+	height: 0; 
+	border-left: 21px solid transparent;
+	border-right: 21px solid transparent;
+	border-bottom: 21px solid;
+}

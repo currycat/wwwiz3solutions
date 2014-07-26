@@ -1,0 +1,178 @@
+/*PROJECT COLORS*/
+
+.angle:before {
+	background: #333333;
+}
+
+.angleLeft:before {
+	background: #333333;
+}
+
+header, .cbp-af-header.cbp-af-header-shrink {
+	background-color: #000000;
+}
+
+.apdiv {
+	background-color: #1B1B1B;
+}
+
+nav {
+	border-top-color: %colour_toolbar_border%;
+}
+
+#nav_container {
+	background-color: #1B1B1B;
+}
+
+nav li ul li {
+	background: #FFFFFF;
+}
+
+section:after {
+	border-bottom-color: #FFFFFF !important;
+}
+
+#breadcrumb ul, #breadcrumb ul a {
+	color: #999999;
+}
+
+#breadcrumb a:hover, #breadcrumb ul a:hover {
+	color: #666666
+}
+
+.wrapper_2 {
+	background-color: #FFFFFF;
+	color: #999999;
+}
+
+.wrapper_3 {
+	background-color: #FFFFFF;
+	color: #999999;
+}
+
+section {
+	color: #212121;
+	background-color: #FFFFFF;
+}
+
+footer{
+	background-color: #FAFAFA;
+}
+
+a {
+	color: %colour_link%;
+}
+
+nav li a {
+	color: #FFFFFF
+}
+
+nav a.current {
+	color: #999999;
+}
+
+nav li a:hover {
+	color: #F9F9F9;
+}
+
+nav ul li:hover {
+	border-color: %colour_dropdown_border%;
+}
+
+nav li ul li a {
+    color: #333333;
+}
+
+nav li ul li a:hover {
+    color: #666666;
+}
+
+#navi-wrap {
+	color: #FFFFFF;
+}
+
+#navi ul, #navi li ul li  {	
+	background-color: #171717;
+}
+
+#navi-wrap a, #navi-wrap a:visited {
+	color: #FFFFFF;
+}
+
+#navi-wrap {
+	background: #1B1B1B;
+}
+
+#socialIcons a {
+	color:#999999;
+}
+
+#socialIcons a:hover {
+	color:#666666;
+}
+
+.cbp-af-header h1#title  {
+	color: #FFFFFF;
+}
+
+/*header h1#title  {
+	background-color: %colour_header_background%;
+}*/
+
+
+#bttmHeader h1#title, #bttmHeader h2#slogan  {
+	color: #FFFFFF;
+}
+
+footer .container ul, footer .container ul, footer .container a {
+	color: #333333;
+}
+
+section a:hover,
+aside a:hover{
+	color: %colour_link_hover%;
+}
+
+h1, h2, h3, h4, h5, h6,
+span#asideTitle,
+.album-title, .movie-page-title,
+h1.blog-entry-title, 
+h1.blog-entry-title a,
+#blog-categories:before,
+#blog-archives:before,
+ul.blog-tag-cloud:before,
+#blog-rss-feeds:before {
+	color: #333333;
+}
+
+footer #left {
+	color: #333333;
+}
+
+#content a, aside a, section a {
+	color: #999999;
+}
+
+nav ul ul li:first-child a:after, nav ul ul li:first-child a:active:after, nav ul ul li:first-child a:link:after, nav ul ul li:first-child a:hover:after, nav ul ul li:first-child a.current:after {
+	border-bottom-color: #FFFFFF;
+}
+
+  /* Mobile Landscape Size to Tablet Portrait (devices and browsers)*/
+  @media only screen and (min-width: 480px) and (max-width: 768px) {
+
+.sf-sub-indicator {
+	color: #FFFFFF;
+}
+
+
+  }
+
+  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers)*/
+  @media only screen and (max-width: 479px) {
+
+
+.sf-sub-indicator {
+	color: #FFFFFF;
+}
+
+  }
