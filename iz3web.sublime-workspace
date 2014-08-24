@@ -1,0 +1,823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Entrada",
+				"EntradaSchema"
+			],
+			[
+				"mongo",
+				"mongoclient"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"inser",
+				"insertData"
+			],
+			[
+				"fe",
+				"fecha_iso"
+			],
+			[
+				"fec",
+				"fecha_iso"
+			],
+			[
+				"importe",
+				"importe_raw"
+			],
+			[
+				"queue",
+				"queueID"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"py",
+				"pymongo"
+			],
+			[
+				"str",
+				"stringDateToMongoDate"
+			],
+			[
+				"ut",
+				"utc_dt"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"TIPO",
+				"TIPO_GASTO"
+			],
+			[
+				"else",
+				"elseif"
+			],
+			[
+				"getBadgets",
+				"getBadgetsCajas"
+			],
+			[
+				"getBad",
+				"getBadgetsTransporte"
+			],
+			[
+				"defin",
+				"define"
+			],
+			[
+				"getPrif",
+				"getProfileName"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"dob",
+				"dobleCheck"
+			],
+			[
+				"col",
+				"colaboradorNO"
+			],
+			[
+				"cola",
+				"colaboradorOK"
+			],
+			[
+				"column",
+				"columnNames"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"comple",
+				"completarDatos"
+			],
+			[
+				"fechaFin",
+				"fechaFinAmpliacion"
+			],
+			[
+				"fechaIni",
+				"fechaInicioAmpliacion"
+			],
+			[
+				"H",
+				"Horas"
+			],
+			[
+				"Mi",
+				"MiPending"
+			],
+			[
+				"_",
+				"_tipo"
+			],
+			[
+				"exporta",
+				"exportaListadoConNombre"
+			],
+			[
+				"autorizadas",
+				"NoAutorizadas"
+			],
+			[
+				"empleado",
+				"empleadoOk"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"Empe",
+				"Empleado"
+			],
+			[
+				"num",
+				"numEmpleado"
+			],
+			[
+				"ca",
+				"call"
+			],
+			[
+				"pu",
+				"public-method	public_method_definition"
+			],
+			[
+				"pri",
+				"parameter-method-private	private_method_parameter"
+			],
+			[
+				"int",
+				"interface-extend	interface_definition_extend"
+			],
+			[
+				"publ",
+				"parameter-method-public	public_method_parameter"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"inter",
+				"interface-default	interface_definition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 15004,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: class_definition"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pandi/Src/dineros/bower.json",
+		"/Users/pandi/Src/dineros/package.json",
+		"/Users/pandi/Src/dineros/api/lib/login/index.js",
+		"/Users/pandi/Src/dineros/api/index.js",
+		"/Users/pandi/Src/dineros/index.html",
+		"/Users/pandi/Src/dineros/api/lib/posts/package.json",
+		"/Users/pandi/Src/dineros/README",
+		"/Users/pandi/Src/dineros/wrappers/bs.py",
+		"/Users/pandi/Src/dineros/queries/mongo.txt",
+		"/Users/pandi/Src/dineros/data/23082014.csv",
+		"/Users/pandi/Src/dineros/data/22082014.csv",
+		"/Users/pandi/Src/dineros/wrappers/wrapper.sublime-project",
+		"/Users/pandi/Src/dineros/wrappers/org.mongodb.mongod.plist",
+		"/Users/pandi/Src/dineros/data/15082014.csv",
+		"/Users/pandi/Src/IKEA/firmas/src/deploy/package.sh",
+		"/Users/pandi/Dropbox/IKEA/100GV/Ficheros/SKU.csv",
+		"/Users/pandi/Src/reservas nuevo menu/modules/cte_parsers.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/ccSlim.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/auxiliar.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/cte_routes.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/cte_usuarios.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/database.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/email.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/importStock.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/misc.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/modules.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/parserAL010.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/parserColaTransporte.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/parserImposibles.php",
+		"/Users/pandi/Src/reservas nuevo menu/modules/parserSKU.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/customerPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/cargaFicherosPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/exportarPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/sacPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/pickingPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/loginPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/cajasPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/pedidosPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/searchPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/transportePost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/ventasPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/post/adminPost.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/sac.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/ventas.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/transporte.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/search.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/picking.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/print.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/reportes.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/warning.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/pedidos.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/main.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/login.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/listadoVentas.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/routes.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/admin.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/cajas.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/cargaFicheros.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/customer.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/exportar.php",
+		"/Users/pandi/Src/reservas nuevo menu/routes/get/history.php",
+		"/Users/pandi/Src/reservas nuevo menu/index.php",
+		"/Volumes/www/deploy/src/sql/alter_tables.sql",
+		"/Volumes/www/update/update.sql",
+		"/Volumes/www/csv/listado_personal.csv",
+		"/Users/pandi/Src/IKEA/firmas/src/sql/ihours_v1.sql",
+		"/Users/pandi/Src/IKEA/firmas/src/sql/instrucciones.txt",
+		"/Volumes/www/sql/ihours_v1.sql",
+		"/Volumes/www/sql/all.sql",
+		"/Users/pandi/Src/reservas nuevo menu/sql/100gv.sql",
+		"/Users/pandi/Desktop/reservas.sql",
+		"/Users/pandi/Desktop/secciones.csv",
+		"/Volumes/www/nuevas_secciones.txt",
+		"/Users/pandi/Sites/wwwiz3solutions/landing-page/index.html",
+		"/Users/pandi/Downloads/email.php",
+		"/Users/pandi/Downloads/cte_routes.php",
+		"/Users/pandi/Src/IKEA/firmas/src/sql/update.sh",
+		"/Users/pandi/Src/IKEA/firmas/src/sql/limpieza.sql",
+		"/Users/pandi/Src/IKEA/firmas/src/sql/data.sql",
+		"/Users/pandi/Src/IKEA/firmas/src/models/modelPeticion.php",
+		"/Users/pandi/Src/IKEA/firmas/src/models/modelEmpleado.php",
+		"/Users/pandi/Src/IKEA/firmas/src/models/modelExporta.php",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pandi/Downloads/jDownloader/nicis/leeme.txt",
+		"/Users/pandi/Src/IKEA/firmas/src/models/modelAux.php",
+		"/Users/pandi/Downloads/index.html",
+		"/Users/pandi/Downloads/ninja.txt",
+		"/Users/pandi/Downloads/deploy/migracion1.1/base de datos v1.0.sql",
+		"/Users/pandi/Downloads/documents-export-2014-03-10/views.sql",
+		"/Users/pandi/Downloads/documents-export-2014-03-10/antes del holocaustodump.sql",
+		"/Users/pandi/Src/IKEA/firmas/src/templates/nuevo_empleado.html",
+		"/Users/pandi/Src/IKEA/firmas/src/ts/global.ts",
+		"/Users/pandi/Src/IKEA/firmas/src/ts/global.js",
+		"/Users/pandi/Desktop/Info.plist",
+		"/Users/pandi/Desktop/test.js",
+		"/Users/pandi/Desktop/test.ts",
+		"/Volumes/Big Boy HD/VirtualBox VMs/com.currycat.cagada.ikea/server.txt",
+		"/Volumes/Big Boy HD/VirtualBox VMs/com.currycat.cagada.ikea/Ubuntu Server 12.04.4 LTS 64bit",
+		"/Volumes/www-1/models/config.txt",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Better TypeScript.sublime-package/TypeScript.tmLanguage",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/Better TypeScript/TypeScript.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/Better TypeScript/Keymaps/Default (OSX).sublime-keymap",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/T3S/Typescript.build.js",
+		"/Users/pandi/Desktop/deploy/models/config.txt",
+		"/Applications/Utilities/Boot Camp Assistant.app/Contents/Info.plist",
+		"/Users/pandi/Src/reservas nuevo menu/migracion1.1/data.sql",
+		"/Users/pandi/Src/reservas nuevo menu/migracion1.1/cambios.sql",
+		"/Users/pandi/Desktop/transporte.csv",
+		"/Users/pandi/Dropbox/IKEA/Ficheros/Imposibles.csv",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/pandi/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/pandi/Downloads/dump.sql",
+		"/Users/pandi/Downloads/torrents.html",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/examples/options-default.html",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/examples/options-wheelSpeed.html",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/examples/options-wheelPropagation.html",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/examples/options-useBothWheelAxes.html",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/examples/options-minScrollbarLength.html",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/examples/text-content.html",
+		"/Users/pandi/Dropbox/Serials/Path Finder 6.txt",
+		"/Users/pandi/Downloads/perfect-scrollbar-0.4.5/README.md",
+		"/Users/pandi/Library/Application Support/Techspansion/vhpresets/libvpx-720p.ffpreset",
+		"/Users/pandi/Src/reservas nuevo menu/BorradoTemporal.bat"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/2012",
+			"/2013",
+			"/2014",
+			"listado_i.html",
+			"/reservai/print/",
+			"listado_i.html",
+			"dimensionArray",
+			"decodifica",
+			"badget",
+			"getProfile",
+			"getProfileName",
+			"getProfile(",
+			"getAppVersion",
+			"getGrowl",
+			"getAppName",
+			"getAppCustomer",
+			"getAppName",
+			"usuarios",
+			"encuesta",
+			"roles",
+			"firmaman",
+			"ALCAZAR",
+			"Ã±",
+			"ÃƒÂ±",
+			"Ã",
+			"Ã±",
+			"ÃƒÂ±",
+			"Ã",
+			"Ñ",
+			"$d[COL_E_NUM]",
+			";Human Resources L'Hospitalet Store;",
+			";Work Spaces L'Hospitalet Store;",
+			";Textiles L'Hospitalet Store;",
+			";St. & Org.Furn./Living R.Seat.Hospitalet;",
+			";Self Service L'Hospitalet Store;",
+			";Sales L'Hospitalet Store;",
+			";Restaurant L'Hospitalet Store;",
+			";Outdoor & Decoration L'Hospitalet Store;",
+			";Lighting L'Hospitalet Store;",
+			";Kitchen & Dining L'Hospitalet Store;",
+			";Home Organization & Storage Hospitalet;",
+			";Eating & Cooking L'Hospitalet Store;",
+			";Childrens L'Hospitalet Store;",
+			";Bedroom & Mattresses L'Hospitalet Store;",
+			";Bathroom L'Hospitalet Store;",
+			";Activities L'Hospitalet Store;",
+			";Marketing L'Hospitalet Store;",
+			";Bistro L'Hospitalet Store;",
+			";Controlling L'Hospitalet Store;",
+			";IKEA Food L'Hospitalet Store;",
+			";Kitchen L'Hospitalet Store;",
+			";Restaurant L'Hospitalet Store;",
+			";Visual Merchandising L'Hospitalet Store;",
+			";Recovery L'Hospitalet Store;",
+			";Maintenance L'Hospitalet Store;",
+			";Informatics Technical L'Hospitalet Store;",
+			";Global Planner L'Hospitalet Store;",
+			";Finance & Business Control. L'Hospitalet;",
+			";Environment L'Hospitalet Store;",
+			";Controlling L'Hospitalet Store;",
+			";Com&In L'Hospitalet Store;",
+			";Full Serve L'Hospitalet Store;",
+			";Show-Room L'Hospitalet Store;",
+			";Visual Merchandising L'Hospitalet Store;",
+			";Servicefront L'Hospitalet Store;",
+			";Sales Supply Support L'Hospitalet Store;",
+			";Out-flow L'Hospitalet Store;",
+			";Logistics L'Hospitalet Store;",
+			";In-flow L'Hospitalet Store;",
+			";Good Flow L'Hospitalet Store;",
+			";Full Serve L'Hospitalet Store;",
+			";Atrack L'Hospitalet Store;",
+			";Backoffice L'Hospitalet Store;",
+			";Buying Proccess L'Hospitalet Store;",
+			";Cashline L'Hospitalet Store;",
+			";Customer Services L'Hospitalet Store;",
+			";Servicefront L'Hospitalet Store;",
+			"Seccion",
+			"Develop & Inspire L'Hospitalet Store",
+			"Atrack L'Hospitalet Store",
+			"Atrack L'Hospitalet Store;",
+			"temporal",
+			"indefinido",
+			"          6;",
+			"          1;",
+			"2;;",
+			"670-84-50-96",
+			"Masculino;",
+			"Femenino;",
+			"Business Naviga;",
+			"Marketing;",
+			"Ventas;",
+			"SAC(Servicio At",
+			"Log¡stica;",
+			"IKEA Food Servi;",
+			";HR;",
+			"Comm-In",
+			"00/00/0000",
+			"(en blanco)",
+			"¥",
+			"a name",
+			"section",
+			"_exportaListadoConNombre",
+			"ihrsman",
+			"%",
+			"root",
+			"ihrsman",
+			"`TEST_MIGRACION`.",
+			"ihrsman",
+			"fonts.css",
+			"`ORDER_HISTORICO",
+			"order_historico",
+			"ffight",
+			"cps",
+			"romof=\"cps",
+			"biosset",
+			"Final Fight",
+			"`ihrsman`@`%`"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/12",
+			"/13",
+			"/14",
+			"root",
+			"Ñ",
+			"Ã±",
+			"Ã",
+			"Ã±",
+			"Ã",
+			";6;",
+			";57;",
+			";56;",
+			";55;",
+			";54;",
+			";53;",
+			";52;",
+			";51;",
+			";50;",
+			";49;",
+			";48;",
+			";47;",
+			";46;",
+			";45;",
+			";44;",
+			";43;",
+			";42;",
+			";41;",
+			";40;",
+			";39;",
+			";38;",
+			";37;",
+			";36;",
+			";35;",
+			";34;",
+			";33;",
+			";32;",
+			";31;",
+			";30;",
+			";29;",
+			";28;",
+			";27;",
+			";26;",
+			";25;",
+			";24;",
+			";23;",
+			";22;",
+			";21;",
+			";20;",
+			";19;",
+			";18;",
+			";17;",
+			";16;",
+			";15;",
+			";14;",
+			";13;",
+			";12;",
+			"11",
+			"10",
+			"9",
+			"0",
+			"1",
+			";",
+			"2;",
+			"670845096",
+			"H;",
+			"M;",
+			"5;",
+			"8;",
+			"9;",
+			"2;",
+			"3;",
+			"7;",
+			";1;",
+			"4",
+			"",
+			"Ñ",
+			"root",
+			"localhost",
+			"ihrsman",
+			"root",
+			"",
+			"root",
+			"`ihrsman`@`localhost`"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 365.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "iz3web.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"SELECT"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
