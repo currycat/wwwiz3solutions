@@ -1,1 +1,1 @@
-var kpmode = 'killping';
+var kpmode = 'kill';
