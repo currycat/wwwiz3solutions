@@ -1,1 +1,1 @@
-var kpmode = 'kill';
+var kpmode = 'none';
