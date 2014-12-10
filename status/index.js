@@ -1,3 +1,1 @@
-$(document).ready(function(){
-	var mode = 'none';
-});
+var mode = 'none';
